@@ -1,4 +1,4 @@
-# 🏦 Loan Approval_Prediction
+# 🏦 Loan Approval Prediction
 
 ## 🎯 Objective
 The objective of this project is to build a Machine Learning model that predicts whether a loan application will be approved or not based on applicant details.
